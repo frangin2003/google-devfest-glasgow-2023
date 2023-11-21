@@ -1,0 +1,26 @@
+pyttsx4
+SpeechRecognition
+langchain
+langchain-experimental
+chromadb
+tiktoken
+pydantic
+openai
+PyAudio
+flask
+flask_socketio
+flask-cors
+flask-restx
+flask-socketio
+# sqlite3 # already installed with python
+asyncio
+websockets
+gql
+google-search-results
+requests_toolbelt
+ariadne
+llm
+cohere
+gpt4all
+ctransformers
+pathlib
