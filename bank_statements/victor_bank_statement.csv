@@ -1,0 +1,331 @@
+Date,Description,Transaction Type,Amount
+01/09/2023,Coffee Shop,CARD,-107.23
+01/09/2023,Gas Station,CARD,-253.16
+01/09/2023,Online Shopping,CARD,-245.36
+02/09/2023,Racecourse Bet,CARD,-113.93
+02/09/2023,Gas Station,CARD,-182.23
+02/09/2023,Online Shopping,CARD,-127.42
+02/09/2023,Gas Station,CARD,-46.86
+03/09/2023,Restaurant,CARD,-19.04
+03/09/2023,Online Shopping,CARD,-120.05
+03/09/2023,Racecourse Bet,CASH,-199.19
+04/09/2023,Gas Station,CASH,-14
+04/09/2023,Coffee Shop,CARD,-261.35
+05/09/2023,Gas Station,CASH,-299.79
+05/09/2023,Gas Station,CARD,-48.01
+05/09/2023,Grocery Store,CASH,-29.2
+05/09/2023,Gas Station,CARD,-199.48
+05/09/2023,Coffee Shop,CARD,-227.39
+05/09/2023,Grocery Store,CARD,-83.55
+05/09/2023,Online Shopping,CASH,-29.26
+05/09/2023,Casino Mega Money,CARD,-180.99
+06/09/2023,Racecourse Bet,CARD,-289.51
+06/09/2023,Utility Bill,CASH,-278.73
+06/09/2023,Gas Station,CARD,-211.67
+07/09/2023,Online Shopping,CARD,-41.77
+07/09/2023,Grocery Store,CASH,-265.58
+07/09/2023,Gas Station,CASH,-140.74
+07/09/2023,Mega-Jackpot 2000,CARD,-198.2
+08/09/2023,Online Shopping,CASH,-251.13
+08/09/2023,Online Shopping,CASH,-276.16
+08/09/2023,Monthly Salary,CASH,2526
+09/09/2023,Gas Station,CARD,-264.95
+09/09/2023,Slot machine heaven,CARD,-175.78
+09/09/2023,Gas Station,CASH,-29.75
+10/09/2023,Coffee Shop,CARD,-140.41
+10/09/2023,Restaurant,CASH,-111.59
+10/09/2023,Grocery Store,CASH,-35.38
+10/09/2023,Online Shopping,CARD,-171.53
+11/09/2023,Coffee Shop,CARD,-145.89
+11/09/2023,Gas Station,CASH,-274.28
+11/09/2023,Online Shopping,CARD,-297.04
+11/09/2023,Grocery Store,CARD,-16.52
+12/09/2023,Coffee Shop,CASH,-199.3
+12/09/2023,Coffee Shop,CARD,-190.91
+12/09/2023,Coffee Shop,CASH,-229.24
+12/09/2023,Coffee Shop,CARD,-203.32
+12/09/2023,Coffee Shop,CARD,-148.96
+12/09/2023,Restaurant,CASH,-209.03
+12/09/2023,Coffee Shop,CARD,-116.81
+12/09/2023,Gas Station,CASH,-93.32
+13/09/2023,Gas Station,CARD,-68.27
+13/09/2023,Online Shopping,CASH,-166.67
+13/09/2023,Restaurant,CARD,-75.99
+14/09/2023,Restaurant,CASH,-138.72
+14/09/2023,Gas Station,CASH,-296.08
+14/09/2023,Restaurant,CARD,-101.79
+15/09/2023,Utility Bill,CASH,-280.42
+15/09/2023,Grocery Store,CARD,-242.47
+15/09/2023,Grocery Store,CASH,-112.73
+16/09/2023,Gas Station,CARD,-51.07
+16/09/2023,Mega-Jackpot 2000,CASH,-267.38
+17/09/2023,Coffee Shop,CARD,-252.1
+17/09/2023,Restaurant,CARD,-80.31
+17/09/2023,Utility Bill,CARD,-54.96
+18/09/2023,Online Shopping,CARD,-136.5
+18/09/2023,Online Shopping,CARD,-231.36
+18/09/2023,Coffee Shop,CARD,-39.1
+18/09/2023,Utility Bill,CARD,-263.09
+18/09/2023,Racecourse Bet,CARD,-180.67
+19/09/2023,Restaurant,CARD,-164.1
+19/09/2023,Online Shopping,CARD,-51.33
+19/09/2023,Coffee Shop,CARD,-164.44
+20/09/2023,Coffee Shop,CARD,-238.27
+21/09/2023,Online Shopping,CARD,-36.71
+21/09/2023,Grocery Store,CASH,-244.29
+21/09/2023,Grocery Store,CARD,-180.94
+21/09/2023,Restaurant,CARD,-47.79
+22/09/2023,Coffee Shop,CARD,-126.85
+22/09/2023,Online Shopping,CASH,-97.46
+22/09/2023,Slot machine heaven,CASH,-10.78
+22/09/2023,Utility Bill,CASH,-227.5
+22/09/2023,Coffee Shop,CASH,-54.14
+22/09/2023,Slot machine heaven,CARD,-87.74
+23/09/2023,Racecourse Bet,CASH,-176.73
+24/09/2023,Restaurant,CARD,-25.49
+25/09/2023,Online Shopping,CARD,-49.4
+25/09/2023,Gas Station,CASH,-24.33
+25/09/2023,Coffee Shop,CASH,-90.27
+25/09/2023,Utility Bill,CARD,-207.85
+25/09/2023,Casino Mega Money,CARD,-58.56
+26/09/2023,Gas Station,CARD,-39.16
+26/09/2023,Coffee Shop,CARD,-163.89
+26/09/2023,Utility Bill,CARD,-206.19
+27/09/2023,Gas Station,CARD,-116.39
+27/09/2023,Mega-Jackpot 2000,CARD,-171.61
+27/09/2023,Online Shopping,CARD,-262.78
+27/09/2023,Gas Station,CARD,-110.03
+27/09/2023,Gas Station,CARD,-28.87
+28/09/2023,Grocery Store,CASH,-100.87
+28/09/2023,Gas Station,CASH,-269.86
+28/09/2023,Gas Station,CARD,-243.89
+29/09/2023,Racecourse Bet,CASH,-186.91
+29/09/2023,Restaurant,CARD,-66.78
+29/09/2023,Gas Station,CASH,-187.61
+29/09/2023,Grocery Store,CARD,-51.06
+30/09/2023,Gas Station,CARD,-279.2
+30/09/2023,Coffee Shop,CARD,-243.05
+01/10/2023,Gas Station,CASH,-50.35
+03/10/2023,Gas Station,CASH,-284.01
+03/10/2023,Restaurant,CARD,-105.86
+03/10/2023,Online Shopping,CARD,-161.86
+03/10/2023,Utility Bill,CARD,-243.99
+03/10/2023,Grocery Store,CARD,-25.96
+03/10/2023,Online Shopping,CARD,-276.73
+04/10/2023,Restaurant,CARD,-110.62
+04/10/2023,Coffee Shop,CARD,-169.39
+04/10/2023,Gas Station,CARD,-294.99
+05/10/2023,Gas Station,CARD,-224.39
+05/10/2023,Grocery Store,CARD,-34.07
+05/10/2023,Online Shopping,CARD,-186.61
+05/10/2023,Grocery Store,CASH,-170.62
+05/10/2023,Coffee Shop,CARD,-53.04
+05/10/2023,Grocery Store,CARD,-169.73
+05/10/2023,Mega-Jackpot 2000,CASH,-39.86
+05/10/2023,Utility Bill,CARD,-33.81
+06/10/2023,Casino Mega Money,CARD,-49.11
+06/10/2023,Restaurant,CARD,-241.69
+06/10/2023,Restaurant,CASH,-289.72
+06/10/2023,Utility Bill,CASH,-286.61
+07/10/2023,Online Shopping,CARD,-219.68
+08/10/2023,Restaurant,CARD,-279.54
+08/10/2023,Online Shopping,CARD,-82.48
+08/10/2023,Online Shopping,CARD,-253.88
+09/10/2023,Racecourse Bet,CARD,-277.05
+09/10/2023,Utility Bill,CARD,-11.92
+09/10/2023,Online Shopping,CARD,-163.42
+10/10/2023,Casino Mega Money,CARD,-42.87
+11/10/2023,Restaurant,CARD,-123.8
+11/10/2023,Coffee Shop,CASH,-13.5
+13/10/2023,Coffee Shop,CASH,-62
+13/10/2023,Slot machine heaven,CASH,-247.44
+13/10/2023,Restaurant,CASH,-294.77
+13/10/2023,Online Shopping,CARD,-224.9
+13/10/2023,Gas Station,CARD,-171.54
+13/10/2023,Utility Bill,CASH,-131.36
+13/10/2023,Slot machine heaven,CARD,-27.26
+13/10/2023,Gas Station,CARD,-186.12
+14/10/2023,Coffee Shop,CARD,-175.42
+14/10/2023,Utility Bill,CASH,-94.12
+15/10/2023,Grocery Store,CARD,-177.46
+15/10/2023,Gas Station,CARD,-262.5
+15/10/2023,Monthly Salary,CASH,2526
+16/10/2023,Grocery Store,CASH,-138.05
+16/10/2023,Grocery Store,CARD,-73.35
+16/10/2023,Gas Station,CARD,-240.33
+16/10/2023,Utility Bill,CARD,-295.33
+16/10/2023,Grocery Store,CARD,-166.66
+17/10/2023,Grocery Store,CASH,-201.2
+17/10/2023,Mega-Jackpot 2000,CARD,-287.11
+17/10/2023,Restaurant,CARD,-123.55
+17/10/2023,Grocery Store,CARD,-296.76
+17/10/2023,Online Shopping,CARD,-88.34
+17/10/2023,Utility Bill,CARD,-138.43
+18/10/2023,Restaurant,CARD,-222.36
+18/10/2023,Gas Station,CARD,-82.89
+18/10/2023,Gas Station,CARD,-86.98
+18/10/2023,Online Shopping,CARD,-139.32
+19/10/2023,Online Shopping,CARD,-197.04
+19/10/2023,Racecourse Bet,CARD,-298.54
+19/10/2023,Casino Mega Money,CARD,-163.26
+19/10/2023,Coffee Shop,CARD,-176.93
+19/10/2023,Online Shopping,CASH,-259.09
+19/10/2023,Grocery Store,CASH,-84.6
+19/10/2023,Online Shopping,CASH,-264.77
+20/10/2023,Utility Bill,CARD,-194.27
+21/10/2023,Gas Station,CARD,-117.63
+21/10/2023,Grocery Store,CASH,-92.19
+21/10/2023,Gas Station,CARD,-47.76
+21/10/2023,Grocery Store,CARD,-124.64
+22/10/2023,Casino Mega Money,CARD,-135.96
+22/10/2023,Utility Bill,CARD,-182.64
+22/10/2023,Restaurant,CARD,-170.28
+23/10/2023,Online Shopping,CARD,-56.91
+23/10/2023,Utility Bill,CARD,-69.57
+23/10/2023,Online Shopping,CARD,-16.43
+24/10/2023,Racecourse Bet,CARD,-276.81
+25/10/2023,Online Shopping,CASH,-16.42
+25/10/2023,Gas Station,CASH,-282.12
+25/10/2023,Utility Bill,CARD,-83.82
+25/10/2023,Grocery Store,CARD,-66.33
+26/10/2023,Coffee Shop,CARD,-127.34
+26/10/2023,Utility Bill,CARD,-33.6
+26/10/2023,Gas Station,CARD,-168.59
+26/10/2023,Coffee Shop,CARD,-160.35
+26/10/2023,Utility Bill,CARD,-127.41
+27/10/2023,Racecourse Bet,CASH,-132.11
+27/10/2023,Restaurant,CARD,-203.49
+28/10/2023,Coffee Shop,CARD,-190.62
+28/10/2023,Utility Bill,CASH,-249.12
+28/10/2023,Gas Station,CARD,-60.51
+29/10/2023,Slot machine heaven,CARD,-246.65
+29/10/2023,Gas Station,CARD,-226.86
+29/10/2023,Online Shopping,CARD,-200.4
+29/10/2023,Coffee Shop,CARD,-211.11
+30/10/2023,Online Shopping,CARD,-154.59
+30/10/2023,Restaurant,CARD,-198.05
+30/10/2023,Gas Station,CASH,-188.84
+30/10/2023,Utility Bill,CARD,-50.71
+31/10/2023,Gas Station,CARD,-285.55
+31/10/2023,Restaurant,CARD,-149.88
+31/10/2023,Online Shopping,CARD,-110.11
+31/10/2023,Utility Bill,CARD,-291.74
+01/11/2023,Restaurant,CARD,-103.03
+01/11/2023,Grocery Store,CARD,-46.23
+01/11/2023,Grocery Store,CARD,-118.39
+01/11/2023,Coffee Shop,CARD,-80.17
+01/11/2023,Restaurant,CARD,-94.98
+01/11/2023,Coffee Shop,CARD,-86.15
+02/11/2023,Gas Station,CASH,-39.77
+02/11/2023,Coffee Shop,CARD,-99.35
+02/11/2023,Racecourse Bet,CARD,-216.03
+03/11/2023,Mega-Jackpot 2000,CARD,-205.42
+03/11/2023,Utility Bill,CARD,-232.38
+04/11/2023,Racecourse Bet,CASH,-280.41
+04/11/2023,Restaurant,CARD,-181.56
+04/11/2023,Grocery Store,CARD,-188.3
+04/11/2023,Online Shopping,CARD,-221.13
+04/11/2023,Racecourse Bet,CASH,-79.28
+04/11/2023,Restaurant,CARD,-217.15
+05/11/2023,Online Shopping,CARD,-211.31
+05/11/2023,Restaurant,CARD,-197.91
+05/11/2023,Gas Station,CARD,-83.38
+05/11/2023,Casino Mega Money,CARD,-223.45
+05/11/2023,Online Shopping,CARD,-33.42
+05/11/2023,Grocery Store,CASH,-84.13
+05/11/2023,Gas Station,CARD,-188.97
+05/11/2023,Restaurant,CARD,-45.81
+06/11/2023,Utility Bill,CASH,-245.85
+06/11/2023,Grocery Store,CARD,-33.71
+07/11/2023,Coffee Shop,CARD,-201.82
+07/11/2023,Utility Bill,CASH,-17.02
+07/11/2023,Coffee Shop,CARD,-297.01
+08/11/2023,Online Shopping,CARD,-274.64
+08/11/2023,Racecourse Bet,CARD,-36.67
+08/11/2023,Utility Bill,CARD,-140.94
+08/11/2023,Slot machine heaven,CASH,-18.29
+08/11/2023,Online Shopping,CARD,-259.51
+08/11/2023,Restaurant,CARD,-21.84
+08/11/2023,Grocery Store,CASH,-102.46
+09/11/2023,Restaurant,CARD,-105.91
+09/11/2023,Racecourse Bet,CARD,-62.96
+10/11/2023,Utility Bill,CARD,-114.4
+10/11/2023,Gas Station,CARD,-158.03
+10/11/2023,Coffee Shop,CARD,-124.13
+10/11/2023,Gas Station,CARD,-164.18
+10/11/2023,Restaurant,CASH,-110.63
+11/11/2023,Mega-Jackpot 2000,CASH,-180.52
+11/11/2023,Utility Bill,CARD,-42.11
+11/11/2023,Restaurant,CARD,-198.84
+11/11/2023,Restaurant,CARD,-207.47
+12/11/2023,Gas Station,CARD,-70.37
+13/11/2023,Mega-Jackpot 2000,CARD,-270.72
+14/11/2023,Coffee Shop,CARD,-159.79
+14/11/2023,Coffee Shop,CARD,-92.1
+14/11/2023,Online Shopping,CARD,-217.73
+14/11/2023,Online Shopping,CASH,-197.2
+15/11/2023,Online Shopping,CASH,-116.15
+15/11/2023,Gas Station,CASH,-88.78
+15/11/2023,Utility Bill,CARD,-247.55
+16/11/2023,Grocery Store,CASH,-129.44
+16/11/2023,Slot machine heaven,CARD,-116.9
+16/11/2023,Coffee Shop,CASH,-181.08
+16/11/2023,Online Shopping,CARD,-291.94
+16/11/2023,Online Shopping,CASH,-284.25
+16/11/2023,Grocery Store,CASH,-23.46
+16/11/2023,Online Shopping,CARD,-296.63
+17/11/2023,Racecourse Bet,CARD,-68.08
+17/11/2023,Utility Bill,CARD,-252.18
+17/11/2023,Grocery Store,CARD,-202.1
+17/11/2023,Racecourse Bet,CARD,-108.28
+17/11/2023,Gas Station,CARD,-125.28
+17/11/2023,Online Shopping,CARD,-176.45
+17/11/2023,Online Shopping,CARD,-128.07
+18/11/2023,Mega-Jackpot 2000,CARD,-84.85
+18/11/2023,Restaurant,CARD,-288.44
+18/11/2023,Monthly Salary,CASH,2526
+19/11/2023,Utility Bill,CARD,-81.18
+20/11/2023,Coffee Shop,CARD,-58.26
+20/11/2023,Coffee Shop,CARD,-26.19
+20/11/2023,Grocery Store,CARD,-77.34
+21/11/2023,Slot machine heaven,CASH,-203.47
+21/11/2023,Coffee Shop,CARD,-11.82
+21/11/2023,Online Shopping,CARD,-108.68
+21/11/2023,Gas Station,CARD,-144.25
+22/11/2023,Casino Mega Money,CARD,-222.86
+23/11/2023,Online Shopping,CARD,-237.35
+23/11/2023,Coffee Shop,CASH,-292.47
+23/11/2023,Racecourse Bet,CASH,-279.48
+24/11/2023,Online Shopping,CASH,-107.16
+24/11/2023,Grocery Store,CARD,-169.88
+24/11/2023,Restaurant,CARD,-157.84
+24/11/2023,Gas Station,CASH,-175.49
+25/11/2023,Gas Station,CARD,-276.72
+25/11/2023,Restaurant,CARD,-60.1
+25/11/2023,Slot machine heaven,CASH,-26.95
+25/11/2023,Slot machine heaven,CARD,-240.85
+25/11/2023,Utility Bill,CARD,-130.94
+26/11/2023,Utility Bill,CARD,-51.1
+26/11/2023,Grocery Store,CARD,-216.65
+27/11/2023,Grocery Store,CASH,-233.49
+27/11/2023,Restaurant,CASH,-111.11
+27/11/2023,Gas Station,CARD,-42.27
+27/11/2023,Utility Bill,CARD,-186.43
+27/11/2023,Casino Mega Money,CASH,-170.41
+27/11/2023,Gas Station,CASH,-171.21
+28/11/2023,Gas Station,CARD,-149.69
+28/11/2023,Grocery Store,CARD,-234.42
+28/11/2023,Coffee Shop,CARD,-22.15
+28/11/2023,Slot machine heaven,CARD,-249.38
+28/11/2023,Online Shopping,CARD,-75.25
+28/11/2023,Restaurant,CASH,-25.42
+29/11/2023,Online Shopping,CASH,-83.13
+29/11/2023,Coffee Shop,CASH,-49.84
+29/11/2023,Grocery Store,CARD,-136.68
+29/11/2023,Utility Bill,CARD,-297.37
+29/11/2023,Gas Station,CARD,-129.62
+30/11/2023,Casino Mega Money,CASH,-99.32
+30/11/2023,Mega-Jackpot 2000,CASH,-149.69
+30/11/2023,Slot machine heaven,CARD,-282.51
+30/11/2023,Utility Bill,CASH,-185.57
+,,TOTAL,-42439

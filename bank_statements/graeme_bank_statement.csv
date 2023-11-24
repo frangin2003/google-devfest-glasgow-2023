@@ -1,0 +1,330 @@
+Date,Description,Transaction Type,Amount
+01/09/2023,Coffee Shop,CASH,-57.12
+01/09/2023,Online Shopping,CARD,-67.67
+01/09/2023,Bookstore Purchase,CARD,-196.65
+01/09/2023,Grocery Store,CASH,-130.7
+01/09/2023,Online Shopping,CASH,-34.66
+01/09/2023,Coffee Shop,CARD,-159.57
+01/09/2023,Gym Membership,CARD,-190.9
+02/09/2023,Utility Bill,CARD,-118.29
+02/09/2023,Grocery Store,CARD,-160.67
+02/09/2023,Grocery Store,CARD,-150.32
+02/09/2023,Online Shopping,CARD,-91.69
+03/09/2023,Restaurant,CARD,-66.45
+03/09/2023,Restaurant,CASH,-132.58
+03/09/2023,Gas Station,CARD,-125.89
+03/09/2023,Restaurant,CARD,-70.55
+03/09/2023,Gym Membership,CASH,-154.39
+04/09/2023,Restaurant,CASH,-60.02
+04/09/2023,Coffee Shop,CARD,-45.14
+04/09/2023,Coffee Shop,CARD,-65.24
+04/09/2023,Gas Station,CARD,-20.5
+04/09/2023,Gas Station,CARD,-187.19
+05/09/2023,Gas Station,CARD,-184.58
+05/09/2023,Bookstore Purchase,CARD,-150.86
+05/09/2023,Gas Station,CARD,-115.38
+06/09/2023,Coffee Shop,CASH,-88.13
+06/09/2023,Gas Station,CARD,-191.43
+06/09/2023,Restaurant,CARD,-73.15
+06/09/2023,Gym Membership,CASH,-97.91
+07/09/2023,Utility Bill,CARD,-173.64
+07/09/2023,Gas Station,CASH,-84.3
+07/09/2023,Utility Bill,CARD,-32.45
+07/09/2023,Gas Station,CARD,-57.86
+07/09/2023,Restaurant,CASH,-86.17
+07/09/2023,Utility Bill,CARD,-173.64
+07/09/2023,Gas Station,CASH,-154.62
+08/09/2023,Utility Bill,CASH,-77.59
+08/09/2023,Bookstore Purchase,CARD,-96.35
+08/09/2023,Gas Station,CASH,-197.69
+08/09/2023,Bookstore Purchase,CASH,-155.87
+08/09/2023,Online Shopping,CASH,-172.28
+08/09/2023,Gas Station,CARD,-159.94
+08/09/2023,Gym Membership,CARD,-157.16
+08/09/2023,Bookstore Purchase,CARD,-38.03
+09/09/2023,Grocery Store,CARD,-74.06
+09/09/2023,Coffee Shop,CARD,-191.34
+09/09/2023,Coffee Shop,CARD,-193.04
+09/09/2023,Online Shopping,CARD,-76.43
+09/09/2023,Coffee Shop,CARD,-94.82
+10/09/2023,Utility Bill,CARD,-177.91
+10/09/2023,Utility Bill,CARD,-139.79
+10/09/2023,Utility Bill,CARD,-144.97
+11/09/2023,Utility Bill,CASH,-85.51
+11/09/2023,Utility Bill,CARD,-129.61
+11/09/2023,Coffee Shop,CARD,-36.78
+12/09/2023,Online Shopping,CARD,-44.16
+13/09/2023,Gas Station,CARD,-44.7
+13/09/2023,Online Shopping,CARD,-182.62
+14/09/2023,Gym Membership,CARD,-116.3
+14/09/2023,Coffee Shop,CARD,-132.53
+14/09/2023,Restaurant,CARD,-129.86
+15/09/2023,Gym Membership,CARD,-165.7
+15/09/2023,Online Shopping,CARD,-46.02
+15/09/2023,Bookstore Purchase,CARD,-47.24
+16/09/2023,Online Shopping,CASH,-180.73
+16/09/2023,Gym Membership,CARD,-134.14
+16/09/2023,Coffee Shop,CARD,-67.64
+17/09/2023,Gym Membership,CASH,-176.82
+17/09/2023,Grocery Store,CARD,-166.53
+17/09/2023,Bookstore Purchase,CARD,-41.58
+17/09/2023,Gas Station,CASH,-11.9
+17/09/2023,Gym Membership,CARD,-191.1
+17/09/2023,Bookstore Purchase,CARD,-19.71
+17/09/2023,Monthly Salary,CASH,2526
+18/09/2023,Online Shopping,CASH,-62.01
+18/09/2023,Gas Station,CARD,-92.8
+19/09/2023,Online Shopping,CASH,-179.98
+20/09/2023,Gas Station,CASH,-49.56
+20/09/2023,Online Shopping,CASH,-190.58
+20/09/2023,Gas Station,CARD,-102
+20/09/2023,Coffee Shop,CASH,-198.51
+21/09/2023,Grocery Store,CARD,-99.01
+21/09/2023,Bookstore Purchase,CARD,-128.98
+21/09/2023,Bookstore Purchase,CARD,-11.29
+22/09/2023,Gas Station,CARD,-67.18
+22/09/2023,Online Shopping,CARD,-189.43
+22/09/2023,Online Shopping,CARD,-134.98
+22/09/2023,Gas Station,CARD,-164.82
+23/09/2023,Utility Bill,CARD,-195.55
+23/09/2023,Bookstore Purchase,CARD,-21.82
+23/09/2023,Gas Station,CARD,-128.93
+23/09/2023,Online Shopping,CASH,-145.67
+24/09/2023,Gas Station,CASH,-90.43
+24/09/2023,Utility Bill,CASH,-36.7
+24/09/2023,Bookstore Purchase,CARD,-12.04
+24/09/2023,Coffee Shop,CASH,-45.14
+24/09/2023,Bookstore Purchase,CARD,-165.45
+24/09/2023,Gas Station,CARD,-192.23
+24/09/2023,Utility Bill,CASH,-75.47
+24/09/2023,Utility Bill,CARD,-120.04
+25/09/2023,Grocery Store,CARD,-149.14
+25/09/2023,Restaurant,CARD,-105.69
+25/09/2023,Coffee Shop,CASH,-91.23
+25/09/2023,Restaurant,CARD,-102.98
+25/09/2023,Grocery Store,CARD,-137.38
+25/09/2023,Bookstore Purchase,CARD,-87.53
+25/09/2023,Gas Station,CARD,-28.06
+27/09/2023,Utility Bill,CARD,-55.12
+27/09/2023,Online Shopping,CARD,-24.53
+27/09/2023,Grocery Store,CARD,-107.88
+27/09/2023,Bookstore Purchase,CASH,-88.03
+27/09/2023,Gas Station,CARD,-169.79
+27/09/2023,Bookstore Purchase,CASH,-154.6
+27/09/2023,Utility Bill,CASH,-160.61
+27/09/2023,Grocery Store,CASH,-116.8
+28/09/2023,Gas Station,CARD,-17.83
+28/09/2023,Grocery Store,CASH,-107.38
+28/09/2023,Coffee Shop,CASH,-81.36
+28/09/2023,Utility Bill,CARD,-31.71
+28/09/2023,Bookstore Purchase,CASH,-16.91
+28/09/2023,Restaurant,CASH,-197.9
+28/09/2023,Bookstore Purchase,CARD,-165.86
+28/09/2023,Restaurant,CARD,-61.82
+29/09/2023,Gas Station,CARD,-169.53
+29/09/2023,Online Shopping,CARD,-62.85
+29/09/2023,Gym Membership,CARD,-100.57
+29/09/2023,Utility Bill,CARD,-110.94
+30/09/2023,Gas Station,CARD,-158.18
+30/09/2023,Coffee Shop,CARD,-115.04
+30/09/2023,Coffee Shop,CARD,-84.87
+30/09/2023,Gas Station,CASH,-39.68
+30/09/2023,Gym Membership,CARD,-172.87
+01/10/2023,Online Shopping,CASH,-109.04
+01/10/2023,Coffee Shop,CARD,-22.57
+01/10/2023,Utility Bill,CARD,-141.78
+02/10/2023,Gas Station,CARD,-183.2
+02/10/2023,Grocery Store,CASH,-183.6
+02/10/2023,Coffee Shop,CASH,-121.96
+03/10/2023,Gas Station,CARD,-147.08
+04/10/2023,Grocery Store,CARD,-41.78
+04/10/2023,Coffee Shop,CASH,-64.32
+04/10/2023,Gas Station,CARD,-54.58
+05/10/2023,Coffee Shop,CASH,-135.38
+05/10/2023,Coffee Shop,CARD,-183.37
+05/10/2023,Utility Bill,CARD,-11.26
+05/10/2023,Coffee Shop,CARD,-187.71
+05/10/2023,Gas Station,CASH,-26.97
+05/10/2023,Coffee Shop,CARD,-163.69
+06/10/2023,Gas Station,CARD,-59.57
+06/10/2023,Gas Station,CARD,-20.49
+06/10/2023,Restaurant,CARD,-48.45
+06/10/2023,Gas Station,CASH,-166.38
+07/10/2023,Utility Bill,CASH,-197.15
+08/10/2023,Utility Bill,CARD,-77.43
+08/10/2023,Restaurant,CARD,-160.59
+08/10/2023,Gas Station,CASH,-84.1
+09/10/2023,Coffee Shop,CARD,-27.98
+10/10/2023,Gym Membership,CASH,-164.2
+10/10/2023,Gym Membership,CASH,-196.32
+10/10/2023,Online Shopping,CARD,-178.18
+11/10/2023,Gas Station,CARD,-190.02
+11/10/2023,Grocery Store,CARD,-188.23
+12/10/2023,Bookstore Purchase,CARD,-81.68
+12/10/2023,Restaurant,CARD,-143.21
+12/10/2023,Restaurant,CARD,-191.94
+12/10/2023,Grocery Store,CARD,-196.09
+12/10/2023,Gas Station,CASH,-19.32
+12/10/2023,Utility Bill,CASH,-35.09
+12/10/2023,Monthly Salary,CASH,2526
+13/10/2023,Online Shopping,CARD,-130.16
+13/10/2023,Gas Station,CASH,-79.95
+13/10/2023,Restaurant,CARD,-104.78
+13/10/2023,Coffee Shop,CARD,-76.69
+13/10/2023,Online Shopping,CARD,-24.67
+14/10/2023,Bookstore Purchase,CARD,-184.64
+14/10/2023,Gas Station,CASH,-10.3
+14/10/2023,Online Shopping,CARD,-26.96
+14/10/2023,Bookstore Purchase,CARD,-147.17
+15/10/2023,Online Shopping,CARD,-161.61
+15/10/2023,Utility Bill,CASH,-31.15
+15/10/2023,Grocery Store,CARD,-164.79
+15/10/2023,Restaurant,CARD,-76.98
+16/10/2023,Restaurant,CARD,-145.25
+16/10/2023,Gym Membership,CARD,-112.35
+16/10/2023,Restaurant,CASH,-133.6
+17/10/2023,Utility Bill,CASH,-152.17
+17/10/2023,Online Shopping,CARD,-66.64
+17/10/2023,Utility Bill,CARD,-103.5
+18/10/2023,Restaurant,CARD,-129.47
+18/10/2023,Coffee Shop,CARD,-71.04
+18/10/2023,Restaurant,CARD,-79.03
+19/10/2023,Gym Membership,CARD,-197.76
+20/10/2023,Gym Membership,CARD,-72.19
+20/10/2023,Restaurant,CARD,-120.8
+20/10/2023,Coffee Shop,CASH,-10.9
+21/10/2023,Gas Station,CARD,-120.08
+21/10/2023,Utility Bill,CASH,-120.29
+21/10/2023,Grocery Store,CASH,-116.84
+22/10/2023,Gas Station,CASH,-128.1
+22/10/2023,Online Shopping,CASH,-170.83
+22/10/2023,Gas Station,CASH,-86.19
+22/10/2023,Gas Station,CARD,-164.78
+23/10/2023,Coffee Shop,CASH,-72.09
+23/10/2023,Restaurant,CARD,-51
+23/10/2023,Bookstore Purchase,CARD,-141.86
+23/10/2023,Bookstore Purchase,CASH,-70.07
+23/10/2023,Gym Membership,CASH,-87.54
+24/10/2023,Bookstore Purchase,CASH,-110.37
+25/10/2023,Restaurant,CARD,-33.65
+26/10/2023,Online Shopping,CARD,-34.65
+26/10/2023,Gym Membership,CASH,-101.54
+26/10/2023,Gas Station,CARD,-110.92
+26/10/2023,Gym Membership,CARD,-107.18
+27/10/2023,Online Shopping,CARD,-166.29
+27/10/2023,Coffee Shop,CARD,-114.12
+28/10/2023,Utility Bill,CARD,-11.58
+28/10/2023,Gas Station,CARD,-152.79
+28/10/2023,Online Shopping,CARD,-88.7
+28/10/2023,Bookstore Purchase,CARD,-199.81
+29/10/2023,Online Shopping,CARD,-37.11
+29/10/2023,Grocery Store,CARD,-170.2
+29/10/2023,Gas Station,CARD,-143.65
+30/10/2023,Coffee Shop,CARD,-35.57
+30/10/2023,Grocery Store,CARD,-51.94
+30/10/2023,Utility Bill,CARD,-136.14
+30/10/2023,Restaurant,CARD,-141.01
+30/10/2023,Gym Membership,CASH,-52.89
+30/10/2023,Online Shopping,CASH,-170.75
+30/10/2023,Grocery Store,CARD,-170.01
+31/10/2023,Restaurant,CARD,-145.74
+01/11/2023,Online Shopping,CARD,-120.54
+02/11/2023,Gym Membership,CASH,-126.6
+02/11/2023,Bookstore Purchase,CASH,-124.25
+03/11/2023,Utility Bill,CARD,-57.67
+03/11/2023,Restaurant,CARD,-61.45
+05/11/2023,Gas Station,CARD,-17.95
+06/11/2023,Utility Bill,CARD,-133.53
+06/11/2023,Coffee Shop,CARD,-192.63
+06/11/2023,Grocery Store,CARD,-68.04
+06/11/2023,Restaurant,CASH,-103.89
+06/11/2023,Grocery Store,CARD,-81.4
+07/11/2023,Online Shopping,CARD,-189.11
+07/11/2023,Coffee Shop,CARD,-18.65
+08/11/2023,Online Shopping,CARD,-169.1
+08/11/2023,Gas Station,CARD,-192.59
+08/11/2023,Gas Station,CARD,-85.51
+08/11/2023,Coffee Shop,CARD,-91.57
+08/11/2023,Online Shopping,CARD,-18.74
+09/11/2023,Utility Bill,CARD,-151.35
+09/11/2023,Restaurant,CASH,-190.39
+09/11/2023,Grocery Store,CARD,-191.35
+09/11/2023,Utility Bill,CASH,-81.05
+09/11/2023,Coffee Shop,CARD,-39.73
+09/11/2023,Restaurant,CASH,-119.62
+09/11/2023,Online Shopping,CARD,-103.17
+09/11/2023,Monthly Salary,CASH,2526
+10/11/2023,Online Shopping,CARD,-159.43
+11/11/2023,Bookstore Purchase,CARD,-48.21
+11/11/2023,Bookstore Purchase,CARD,-186.42
+11/11/2023,Gym Membership,CARD,-60.5
+12/11/2023,Online Shopping,CARD,-160.94
+12/11/2023,Gas Station,CARD,-33.38
+12/11/2023,Grocery Store,CARD,-29.64
+12/11/2023,Online Shopping,CARD,-162.75
+12/11/2023,Coffee Shop,CASH,-162.06
+13/11/2023,Online Shopping,CASH,-168.99
+13/11/2023,Utility Bill,CARD,-14.37
+13/11/2023,Coffee Shop,CASH,-144.14
+13/11/2023,Gym Membership,CARD,-143.6
+13/11/2023,Online Shopping,CASH,-97.04
+14/11/2023,Coffee Shop,CASH,-82.21
+14/11/2023,Grocery Store,CASH,-22.68
+14/11/2023,Coffee Shop,CARD,-23.19
+14/11/2023,Coffee Shop,CASH,-195.23
+14/11/2023,Coffee Shop,CASH,-11.35
+15/11/2023,Gas Station,CARD,-182.21
+15/11/2023,Online Shopping,CARD,-195.29
+16/11/2023,Coffee Shop,CASH,-44.14
+16/11/2023,Bookstore Purchase,CARD,-128.37
+17/11/2023,Gym Membership,CASH,-111.83
+17/11/2023,Online Shopping,CASH,-25.13
+17/11/2023,Utility Bill,CARD,-166.53
+17/11/2023,Utility Bill,CARD,-195.11
+17/11/2023,Utility Bill,CARD,-184.17
+17/11/2023,Coffee Shop,CASH,-153.8
+18/11/2023,Online Shopping,CARD,-17.88
+18/11/2023,Restaurant,CASH,-16.22
+18/11/2023,Online Shopping,CARD,-40.61
+18/11/2023,Utility Bill,CARD,-154.96
+19/11/2023,Grocery Store,CARD,-102.71
+19/11/2023,Restaurant,CASH,-114.71
+19/11/2023,Gas Station,CARD,-131.34
+20/11/2023,Restaurant,CARD,-177.6
+20/11/2023,Online Shopping,CARD,-97.05
+21/11/2023,Online Shopping,CARD,-143.37
+21/11/2023,Online Shopping,CASH,-158.78
+21/11/2023,Coffee Shop,CASH,-52.76
+21/11/2023,Restaurant,CARD,-153.86
+21/11/2023,Coffee Shop,CARD,-199.75
+21/11/2023,Grocery Store,CASH,-124.18
+21/11/2023,Online Shopping,CASH,-95.4
+21/11/2023,Gas Station,CARD,-137.33
+21/11/2023,Utility Bill,CARD,-49.28
+22/11/2023,Restaurant,CARD,-158.59
+22/11/2023,Coffee Shop,CASH,-83.7
+22/11/2023,Gas Station,CARD,-98.03
+22/11/2023,Coffee Shop,CARD,-21.54
+22/11/2023,Utility Bill,CARD,-177.31
+23/11/2023,Restaurant,CASH,-142.83
+23/11/2023,Utility Bill,CARD,-169.36
+23/11/2023,Bookstore Purchase,CARD,-178.96
+23/11/2023,Coffee Shop,CARD,-162.07
+24/11/2023,Restaurant,CARD,-16.3
+24/11/2023,Online Shopping,CARD,-181.02
+24/11/2023,Gym Membership,CARD,-191.77
+25/11/2023,Utility Bill,CASH,-115.37
+25/11/2023,Gas Station,CASH,-199.27
+25/11/2023,Coffee Shop,CASH,-46.33
+25/11/2023,Online Shopping,CARD,-38.66
+26/11/2023,Gas Station,CARD,-87.08
+26/11/2023,Gym Membership,CARD,-54.67
+27/11/2023,Gas Station,CASH,-109.15
+28/11/2023,Grocery Store,CARD,-150.83
+28/11/2023,Utility Bill,CASH,-174.9
+28/11/2023,Grocery Store,CASH,-89.86
+28/11/2023,Bookstore Purchase,CARD,-105.17
+29/11/2023,Utility Bill,CARD,-125.63
+29/11/2023,Coffee Shop,CARD,-146.57
+30/11/2023,Utility Bill,CARD,-94.26
+,,,
