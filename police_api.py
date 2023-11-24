@@ -3,92 +3,72 @@ import sqlite3
 
 app = Flask(__name__)
 
-# Define a function to connect to the database
-def connect_db():
-    conn = sqlite3.connect('police.db')
-    conn.row_factory = sqlite3.Row  # To return rows as dictionaries
+# Function to establish a database connection
+def get_db_connection():
+    conn = sqlite3.connect("police.db")
+    conn.row_factory = sqlite3.Row
     return conn
 
-# Endpoint to get a list of all policemen
-@app.route('/policemen', methods=['GET'])
-def get_policemen():
-    conn = connect_db()
+# Endpoint to get all cases
+@app.route('/cases', methods=['GET'])
+def get_cases():
+    conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute('SELECT * FROM Policemen')
-    policemen = cursor.fetchall()
+    cursor.execute("SELECT * FROM cases")
+    cases = cursor.fetchall()
     conn.close()
-    return jsonify({'policemen': [dict(policeman) for policeman in policemen]})
+    return jsonify([dict(case) for case in cases])
 
-# Endpoint to get details of a specific policeman by policeman_id
-@app.route('/policemen/<int:policeman_id>', methods=['GET'])
-def get_policeman(policeman_id):
-    conn = connect_db()
+# Endpoint to get all reports with associated information
+@app.route('/reports', methods=['GET'])
+def get_reports():
+    conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute('SELECT * FROM Policemen WHERE policeman_id = ?', (policeman_id,))
-    policeman = cursor.fetchone()
+    cursor.execute("""
+        SELECT reports.*, report_types.type, suspects.full_name
+        FROM reports
+        JOIN report_types ON reports.id_report_type = report_types.id
+        JOIN suspects ON reports.id_suspect = suspects.id
+    """)
+    reports = cursor.fetchall()
     conn.close()
-    if policeman:
-        return jsonify(dict(policeman))
-    else:
-        return jsonify({'error': 'Policeman not found'}), 404
+    return jsonify([dict(report) for report in reports])
 
-# Endpoint to get details of a specific case with suspects, policeman, and grade
-@app.route('/cases/<int:case_id>', methods=['GET'])
-def get_case_details(case_id):
-    conn = connect_db()
+# Endpoint to get reports by type with associated information
+@app.route('/reports/<report_type>', methods=['GET'])
+def get_reports_by_type(report_type):
+    conn = get_db_connection()
     cursor = conn.cursor()
-
-    # Get case details
-    cursor.execute('SELECT * FROM Cases WHERE case_id = ?', (case_id,))
-    case = cursor.fetchone()
-
-    if not case:
-        conn.close()
-        return jsonify({'error': 'Case not found'}), 404
-
-    # Get suspects for the case
-    cursor.execute('SELECT * FROM Suspects WHERE date_created = ?', (case['date_created'],))
-    suspects = cursor.fetchall()
-
-    # Get policeman assigned to the case
-    cursor.execute('''
-        SELECT P.*, PG.grade
-        FROM Policemen AS P
-        JOIN CasePolicemen AS CP ON P.policeman_id = CP.policeman_id
-        JOIN PolicemenGrade AS PG ON P.rank = PG.grade
-        WHERE CP.case_id = ?
-    ''', (case_id,))
-    policeman = cursor.fetchone()
-
+    cursor.execute("""
+        SELECT reports.*, report_types.type, suspects.full_name
+        FROM reports
+        JOIN report_types ON reports.id_report_type = report_types.id
+        JOIN suspects ON reports.id_suspect = suspects.id
+        WHERE report_types.type = ?
+    """, (report_type,))
+    reports = cursor.fetchall()
     conn.close()
+    return jsonify([dict(report) for report in reports])
 
-    if not policeman:
-        conn.close()
-        return jsonify({'error': 'Policeman not found for this case'}), 404
-
-    # Create a dictionary with all the information
-    case_details = {
-        'case': dict(case),
-        'suspects': [dict(suspect) for suspect in suspects],
-        'policeman': dict(policeman),
-    }
-
-    return jsonify(case_details)
-
-# Endpoint to create a new case
-@app.route('/cases', methods=['POST'])
-def create_case():
+# Endpoint to insert a report
+@app.route('/reports', methods=['POST'])
+def insert_report():
     data = request.get_json()
-    case_number = data.get('case_number')
-    details = data.get('details')
-    date_created = data.get('date_created')
+    id_case = data['id_case']
+    id_report_type = data['id_report_type']
+    id_agent = data['id_agent']
+    id_suspect = data['id_suspect']
+    report_content = data['report_content']
 
-    conn = connect_db()
+    conn = get_db_connection()
     cursor = conn.cursor()
-    cursor.execute('INSERT INTO Cases (case_number, details, date_created) VALUES (?, ?, ?)', (case_number, details, date_created))
+    cursor.execute("""
+        INSERT INTO reports (creation_datetime, id_case, id_report_type, id_agent, id_suspect, report_content)
+        VALUES (CURRENT_TIMESTAMP, ?, ?, ?, ?, ?)
+    """, (id_case, id_report_type, id_agent, id_suspect, report_content))
     conn.commit()
     conn.close()
-    return jsonify({'message': 'Case created successfully'}), 201
+    return jsonify({"message": "Report inserted successfully"}), 201
 
 if __name__ == '__main__':
     app.run(debug=True)

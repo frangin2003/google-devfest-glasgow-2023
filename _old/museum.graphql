@@ -1,0 +1,18 @@
+type RoomAccess {
+  id: Int
+  roomName: String
+  employeeName: String
+  inDatetime: String
+  outDatetime: String
+}
+
+type DBAudit {
+  id: Int
+  creationDatetime: String
+  sqlStatement: String
+}
+
+type Query {
+  allRoomAccesses: [RoomAccess]
+  allDBAuditLines: [DBAudit]
+}
