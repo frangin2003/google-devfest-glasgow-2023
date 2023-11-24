@@ -19,6 +19,22 @@ def get_cases():
     conn.close()
     return jsonify([dict(case) for case in cases])
 
+
+# API endpoint to get a single case by ID
+@app.route('/cases/<int:id>', methods=['GET'])
+def get_case(id):
+    conn = get_db_connection()
+    cursor = conn.cursor()
+    cursor.execute("SELECT * FROM cases WHERE id = ?", (id,))
+    case = cursor.fetchone()
+    conn.close()
+
+    if case is None:
+        return jsonify({"message": "Case not found"}), 404
+    return jsonify(dict(case))
+
+
+
 # Endpoint to get all reports with associated information
 @app.route('/reports', methods=['GET'])
 def get_reports():
