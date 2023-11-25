@@ -18,6 +18,7 @@ from langchain.schema import (
     SystemMessage
 )
 from langchain.output_parsers import PydanticOutputParser
+from langchain.schema.output_parser import OutputParserException
 from langchain.agents import load_tools
 from langchain.llms import OpenAI, Cohere, GPT4All, CTransformers
 from langchain.chains import APIChain, RetrievalQA
@@ -101,11 +102,11 @@ def display_agent_response(agent_img, output_str, flip=False):
     </tr></table>
     """))
 
-def get_agent_chain(llm, prefix, tools):
-    suffix = """Begin!"
-{chat_history}
-Question: {input}
-{agent_scratchpad}"""
+def get_agent_chain(llm, prefix, tools, withMemory=True):
+    suffix = "Begin!"
+    if withMemory:
+        suffix += "\n{chat_history}"
+    suffix += "\nQuestion: {input}\n{agent_scratchpad}"
   
     prompt = ZeroShotAgent.create_prompt(
         tools,
@@ -113,10 +114,13 @@ Question: {input}
 
 These are the tools you have access to:""",
         suffix=suffix,
-        input_variables=["input", "chat_history", "agent_scratchpad"],
+        input_variables=["input", "agent_scratchpad"] + (["chat_history"] if withMemory else []),
     )
 
-    memory = ConversationBufferMemory(memory_key="chat_history")
+    if (withMemory):
+        memory = ConversationBufferMemory(memory_key="chat_history")
+    else:
+        memory = None
 
     llm_chain = LLMChain(llm=llm, prompt=prompt)
 

@@ -1,0 +1,20 @@
+{
+    "suspectName": "Grafcuel Graeme",
+    "report_content": "N/A",
+    "suspiscious": false
+}
+{
+    "suspectName": "Sikwel Sally",
+    "report_content": "The suspect's bank statement does not contain any suspicious transactions.",
+    "suspiscious": false
+}
+{
+    "suspectName": "Victor Vectors",
+    "report_content": "Victor Vectors' bank statement shows several suspicious transactions. These include frequent visits to the casino, racecourse bets, and online shopping with large amounts spent. There are also multiple transactions at gas stations and coffee shops. Additionally, Victor received a large monthly salary deposit. Overall, the bank statement raises concerns about Victor's spending habits and possible involvement in gambling.",
+    "suspiscious": true
+}
+{
+    "suspectName": "Rest Webber",
+    "report_content": "N/A",
+    "suspiscious": false
+}
